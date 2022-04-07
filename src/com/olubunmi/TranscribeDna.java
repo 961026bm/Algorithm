@@ -2,16 +2,16 @@ package com.olubunmi;
 
 public class TranscribeDna {
     //  String dnaToRna(String strand)
-    String strand = new ('G, C, T, A');
+//    String strand = new ('G, C, T, A');
 
         public static void main(String[] args) {
-            String d1 = strand.replaceAll('G', 'C');
-            String d2 = d1.replaceAll('C', 'G');
-            String d3 = d2.replaceAll('C', 'N');
-            String d4 = d3.replaceAll('T', 'A');
-            String d5 = d4.replaceAll('A', 'U');
-            String d6 = d5.replaceAll('G', 'N');
-            return d5;
+//            String d1 = strand.replaceAll('G', 'C');
+//            String d2 = d1.replaceAll('C', 'G');
+//            String d3 = d2.replaceAll('C', 'N');
+//            String d4 = d3.replaceAll('T', 'A');
+//            String d5 = d4.replaceAll('A', 'U');
+//            String d6 = d5.replaceAll('G', 'N');
+//            return d5;
 
 
 
