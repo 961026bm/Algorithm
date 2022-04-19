@@ -9,3 +9,12 @@ public class ExistNumberHigher {
         return isHigher;
     }
 }
+//solution in python
+/*
+* def exists_higher(lst, n):
+	#arrays in python are called lists
+	is_higher = False #booleans in python are in first letter capital
+	for num in lst:
+	if num >= n:
+	is_higher = True
+	return is_higher*/
